@@ -2,19 +2,19 @@
   "params":
   {
     "local_server":"True",
-    "local_uri":"mysql://root:@localhost1/codingthunder",
-     "prod_uri": "mysql://root:@localhost/codingthunder",
+    "local_uri":"",
+     "prod_uri": "",
     "fb_url": "https://facebook.com/codingthunder",
     "tw_url": "https://twiter.com/codingthunder",
     "gt_url": "https://github.com/codingthunder",
     "blog_name": "CODING THUNDER",
     "sub_heading": "A BLOG LIKED BY PROGRAMMERS",
-    "email_user": "18bme028@smvdu.ac.in",
-    "email_pass": "1himi@121ll",
+    "email_user": "1",
+    "email_pass": "",
     "about_text": "I am a student.",
     "no_of_post": "2",
     "login_img": "login.svg",
-    "admin_user":"raghav@mietjammu.in" ,
+    "admin_user":"" ,
     "admin_pass": "",
     "upload_location": "D:\\myuploadlocationcodingblog"
   }
